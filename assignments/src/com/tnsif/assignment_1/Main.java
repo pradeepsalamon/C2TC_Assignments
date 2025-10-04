@@ -1,8 +1,8 @@
-package com.tnsif.assignmentone;
+package com.tnsif.assignment_1;
 
-import com.tnsif.assignmentone.employees.Manager;
-import com.tnsif.assignmentone.employees.Developer;
-import com.tnsif.assignmentone.utilities.EmployeeUtilities;
+import com.tnsif.assignment_1.employees.Developer;
+import com.tnsif.assignment_1.employees.Manager;
+import com.tnsif.assignment_1.utilities.EmployeeUtilities;
 
 public class Main {
     public static void main(String[] args) {

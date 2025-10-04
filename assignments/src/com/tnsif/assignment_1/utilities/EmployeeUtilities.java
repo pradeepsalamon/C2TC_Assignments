@@ -1,7 +1,7 @@
-package com.tnsif.assignmentone.utilities;
+package com.tnsif.assignment_1.utilities;
 
 
-import com.tnsif.assignmentone.employees.Employee;
+import com.tnsif.assignment_1.employees.Employee;
 
 public class EmployeeUtilities {
     public static void increaseSalary(Employee employee, double percentage) {

@@ -1,4 +1,4 @@
-package com.tnsif.assignmentone.employees;
+package com.tnsif.assignment_1.employees;
 
 
 public class Developer extends Employee {
